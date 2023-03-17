@@ -1,0 +1,1 @@
+// мы можем использовать event.preventDefault()
